@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://raw.githubusercontent.com/phidiaLam/phidiaLam/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/phidiaLam/phidiaLam/master/assets/github-contribution-grid-snake.svg)
 
 <!--
 **phidiaLam/phidiaLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
